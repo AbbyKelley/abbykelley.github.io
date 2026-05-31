@@ -165,7 +165,6 @@ td {
 
 details summary::before {
     content: "+ (Click to expand)";
-    position: absolute;
 }
 
 details[open] summary::before {

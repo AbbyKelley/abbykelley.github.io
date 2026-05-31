@@ -1,3 +1,20 @@
+## Legal Experience
+
+<details>
+<summary>
+### Nigro & Associates, Paralegal
+
+BRIEF
+</summary>
+
+* Managed the daily operational schedule for the firm, ensuring all client meetings and legal deadlines were tracked. Communicated directly with attorneys to maintain a strict timeline.
+* Directed the intake of confidential legal documents, ensuring all physical and digital files were organized correctly. Enforced firm protocols for data security and record management.
+* Coordinated communication between the firm and external clients, ensuring all inquiries were routed to the appropriate personnel rapidly. Regularly handled a high volume of calls and maintained a professional demeanor under pressure.
+* Processed legal filings and daily correspondence, ensuring all paperwork was formatted properly prior to submission. 
+* Maintained the physical office environment, ensuring all administrative supplies and meeting rooms were prepared for daily use. Anticipated the needs of the staff and resolving immediate logistical issues.
+I supported the legal team during active case preparation, ensuring all necessary materials were sourced and ready for review. This involved retrieving archived files and assembling documents under strict time constraints.
+</details>
+
 ## Events
 
 <details>
