@@ -1,6 +1,6 @@
 **Artists:**
 
-* Lee miller
+* Lee Miller
 * William Morris
 * Alice Neel
 * Chéri Samba
@@ -15,9 +15,9 @@
 
 **Albums:**
 
-* _Revolver_ by The beatles
+* _Revolver_ by The Beatles
 * _Horses by Patti_ Smith
-* _Awaken My Love_ by Childish gambino
+* _Awaken My Love_ by Childish Gambino
 * _Midnights_ by Taylor Swift
 * _The Velvet Underground & Nico_ by The Velvet Underground and Nico
 * _Is This It_ by The Strokes
@@ -25,5 +25,5 @@
 **Movies:**
 
 * _Amélie_
-* _Rocky horror_
-* _Jurassic park_
+* _The Rocky Horror Picture Show_
+* _Jurassic Park_
