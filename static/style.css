@@ -1,0 +1,200 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    padding: 0;
+    font-size: 7rem;
+    letter-spacing: 5%;
+    margin: 0;
+    margin-top: 5%;
+    font-weight: 900;
+}
+
+h2 {
+    padding: 0;
+    font-size: 2rem;
+    letter-spacing: 5%;
+    margin: 0;
+    margin-top: 5%;
+    font-weight: 900;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+
+.link-title a{
+    color: greenyellow;
+}
+
+.link-title a:hover{
+    color: white;
+}
+
+.link-magenta a:hover {
+    color: magenta;
+}
+
+.link-green a:hover {
+    color:greenyellow;
+}
+
+.link-purple a:hover {
+    color: darkorchid;
+}
+
+hr {
+    border-width: 0.5px;
+}
+
+table {
+    margin: 0px auto;
+    padding: 1rem;
+}
+
+th,
+td {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    text-align: center;
+}
+
+.nav-grid {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    grid-column: 1; /* take the explicit one */
+}
+
+.nav-grid div {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+.content-grid {
+    display: flex;
+    max-width: 80%;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.content-grid div:first-child {
+    flex: 2;
+}
+
+.content-grid div {
+    flex: 1;
+}
+
+.img-row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.img-column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.img-row {
+    display: flex;
+     flex-wrap: wrap;
+     width: 100%;
+}
+
+.img-column {
+    flex: 1;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+}
+
+.img-column img {
+    width: 100%;
+      max-width: 100%;
+      height: auto;
+      display: block;
+}
+
+.photo-grid {
+    width: 80%;
+    max-width: 80%;
+    text-align: left;
+    margin: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.text {
+    max-width: 80ch;
+    text-align: left;
+    margin: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.text details {
+    border: 1px solid greenyellow;
+    padding: 0.7rem;
+}
+
+.photo-grid details{
+    border: 1px solid magenta;
+    padding: 0.7rem;
+}
+
+.text-box {
+    border: 1px solid;
+    border-color: greenyellow;
+    padding: 0.7rem;
+}
+
+details summary::before {
+    content: "+ (Click to expand)";
+    position: absolute;
+}
+
+details[open] summary::before {
+    content: "- (Click to collapse)";
+}
+
+li {
+    margin-top: 0.5rem;
+}
+
+footer {
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 2rem;
+}
+
+@media (max-width: 960px) {
+    body {
+        font-size: 20px;
+    }
+    .nav-grid {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        grid-column: 1; /* take the explicit one */
+    }
+    .nav-grid div {
+        padding-top: 2%;
+        padding-bottom: 2%;
+        font-weight: bold;
+    }
+}
