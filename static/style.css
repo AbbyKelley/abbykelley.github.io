@@ -58,6 +58,10 @@ hr {
     border-width: 0.5px;
 }
 
+p {
+    text-align: left;
+}
+
 table {
     margin: 0px auto;
     padding: 1rem;
@@ -85,17 +89,19 @@ td {
 
 .content-grid {
     display: flex;
+    flex-direction: row;
     max-width: 80%;
     margin: 0 auto;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .content-grid div:first-child {
-    flex: 2;
+    flex: 2 1 300px;
 }
 
 .content-grid div {
-    flex: 1;
+    flex: 1 1 300px;
 }
 
 .img-row {
@@ -161,6 +167,7 @@ td {
     border: 1px solid;
     border-color: greenyellow;
     padding: 0.7rem;
+    text-align: left;
 }
 
 details summary::before {

@@ -1,3 +1,21 @@
+## Education
+
+<div class="text-box">
+### Imperial College London
+
+MSc Strategic Marketing
+
+Specialized in data analytics and digital marketing.
+</div>
+<div class="text-box">
+### University of St Andrews
+
+MA Art History
+
+Dissertation: "Ripping at the Seams: Inconsistencies in ICOM's 'Museum' Definition in the Context of Fashion-Branded
+Displays"
+</div>
+
 ## Legal Experience
 
 <details>
